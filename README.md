@@ -30,8 +30,8 @@ The project is created for practice and to improve frontend development skills.
 
 ## 📂 Project Structure
 
-index.html
-style.css
+- index.html
+- style.css
 
 ---
 
